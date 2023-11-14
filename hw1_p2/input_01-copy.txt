@@ -1,0 +1,22 @@
+2
+10 5
+union 0 1
+union 2 0
+find 2
+same 2 1
+same 2 4
+10000 14
+union 9092 9093
+union 9094 9095
+union 9093 9095
+find 9092
+find 9093
+find 9094
+find 9095
+union 8002 8003
+union 8004 8005
+union 8004 8002
+find 8002
+find 8003
+find 8004
+find 8005
